@@ -19,6 +19,7 @@ public class Student {
     double getAverageMark()
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
+        System.out.println("ABCD");
     }
 
   
